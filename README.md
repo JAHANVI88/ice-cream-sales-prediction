@@ -1,6 +1,6 @@
 # ice-cream-sales-prediction
 Machine Learning project that predicts ice cream sales based on temperature using Linear Regression.
-# Ice Cream Sales Prediction Analysis
+
 
 ## Overview
 This project uses Machine Learning to predict ice cream sales based on temperature.
